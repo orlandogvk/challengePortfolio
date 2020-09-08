@@ -26,5 +26,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "![ReactJS Resume Website Template](resume-screenshot.png?raw=true \"ReactJS Resume Website Template\")",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CleverProgrammers/react-portfolio/issues"
   }
 }
